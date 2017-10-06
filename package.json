@@ -16,6 +16,6 @@
   },
   "license": "INTERNAL",
   "dependencies": {
-    "npm-issue-bad-dependency": "git+ssh://git@github.com/jthomerson/npm-issue-bad-dependency.git#b0846521ada417a7ae012bd37ac82c05afe201c4"
+    "npm-issue-bad-dependency": "git+ssh://git@github.com/jthomerson/npm-issue-bad-dependency.git#560f013ad965d5981b788d68d215868d6da63da9"
   }
 }
