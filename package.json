@@ -1,0 +1,21 @@
+{
+  "name": "npm-issue-parent-app",
+  "version": "1.0.0",
+  "description": "Example bad app for NPM issue I am about to report",
+  "homepage": "https://www.jeremythomerson.com",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jthomerson/npm-issue-parent-app.git"
+  },
+  "author": {
+    "name": "Jeremy Thomerson"
+  },
+  "license": "INTERNAL",
+  "dependencies": {
+    "npm-issue-bad-dependency": "git+ssh://git@github.com/jthomerson/npm-issue-bad-dependency.git#b0846521ada417a7ae012bd37ac82c05afe201c4"
+  }
+}
